@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+#Studying at IMS Basel
+
 <!--
 **Arkki7002/Arkki7002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
